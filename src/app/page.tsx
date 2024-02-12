@@ -1,4 +1,4 @@
-import GoToDashboard from "@/components/GoToDashboard/GoToDashboard";
+import GoToDashboard from "@/components/goToDashboard/GoToDashboard";
 import Image from "next/image";
 
 export default function Home() {

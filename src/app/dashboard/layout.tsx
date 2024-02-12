@@ -1,4 +1,4 @@
-import SideNav from '@/components/SideNav/SideNav'
+import SideNav from '@/components/sideNav/SideNav'
 import React from 'react'
 
 
