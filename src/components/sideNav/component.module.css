@@ -1,0 +1,23 @@
+.SideNav {
+  padding: 1em 0.5em;
+}
+
+.SideNav ul {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5em;
+}
+.navLink {
+  display: flex;
+  align-items: center;
+  gap: 1em;
+
+  padding: 1em;
+  border-radius: 0.35em;
+
+  background-color: #e5f3fe;
+}
+
+.navLink.active{
+    background-color: #aedafc;
+}
