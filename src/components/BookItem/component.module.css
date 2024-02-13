@@ -1,0 +1,17 @@
+.BookItem {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5em;
+
+  border-radius: 0.5em;
+
+  margin-top: 1em;
+  padding: 1em;
+  background-color: #eee;
+
+  text-align: center;
+}
+
+.title {
+  font-size: 1.4rem;
+}

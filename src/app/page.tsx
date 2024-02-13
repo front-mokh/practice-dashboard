@@ -1,5 +1,6 @@
 import GoToDashboard from "@/components/goToDashboard/GoToDashboard";
 import Image from "next/image";
+import {Italiana} from "next/font/google"
 
 export default function Home() {
   return (
